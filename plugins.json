@@ -6,5 +6,8 @@
   {
     "file": "another-show-hooks/another-show-hooks.php",
     "download_url": "https://github.com/qriouslad/another-show-hooks/archive/refs/heads/main.zip"
-  }
+  },
+  {
+    "file": "aether-herd/aether-herd.php",
+    "download_url": "https://github.com/aether-wp/aether-herd/archive/refs/heads/main.zip"
 ]
