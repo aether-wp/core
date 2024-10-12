@@ -1,1 +1,10 @@
-["query-monitor"]
+[
+  {
+    "file": "query-monitor/query-monitor.php",
+    "download_url": "https://github.com/johnbillion/query-monitor/archive/refs/heads/develop.zip"
+  },
+  {
+    "file": "another-show-hooks/another-show-hooks.php",
+    "download_url": "https://github.com/qriouslad/another-show-hooks/archive/refs/heads/main.zip"
+  }
+]
