@@ -1,9 +1,5 @@
 [
   {
-    "file": "query-monitor/query-monitor.php",
-    "download_url": "https://github.com/johnbillion/query-monitor/archive/refs/heads/develop.zip"
-  },
-  {
     "type": "wordpress-org",
     "slug": "query-monitor",
     "file": "query-monitor/query-monitor.php"
