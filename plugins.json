@@ -2,9 +2,5 @@
   {
     "file": "query-monitor/query-monitor.php",
     "download_url": "https://github.com/johnbillion/query-monitor/archive/refs/heads/develop.zip"
-  },
-  {
-    "file": "aether-herd/aether-herd.php",
-    "download_url": "https://github.com/aether-wp/aether-herd/archive/refs/heads/main.zip"
   }
 ]
