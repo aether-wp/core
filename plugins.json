@@ -2,5 +2,31 @@
   {
     "file": "query-monitor/query-monitor.php",
     "download_url": "https://github.com/johnbillion/query-monitor/archive/refs/heads/develop.zip"
+  },
+  {
+    "type": "wordpress-org",
+    "slug": "query-monitor",
+    "file": "query-monitor/query-monitor.php"
+  },
+  {
+    "type": "wordpress-org",
+    "slug": "what-the-file",
+    "file": "what-the-file/what-the-file.php"
+  },
+  {
+    "type": "wordpress-org",
+    "slug": "user-switching",
+    "file": "user-switching/user-switching.php"
+  },
+  {
+    "type": "wordpress-org",
+    "slug": "code-profiler",
+    "file": "code-profiler/index.php"
+  },
+  {
+    "type": "zip",
+    "slug": "wordpress-seo",
+    "file": "wordpress-seo/wp-seo.php",
+    "download_url": "https://github.com/Yoast/wordpress-seo/releases/download/23.7/wordpress-seo-23.7.zip"
   }
 ]
